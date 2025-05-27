@@ -1,7 +1,12 @@
 # 👩🏽‍⚕️ Fanah Hagos
 ## 📚 Publications
+## 🧠 Research Publications by Fanah Hagos
+<meta name="description" content="Fanah Hagos publications in vascular surgery, PAD, and anticoagulation therapy.">
+<meta name="keywords" content="Fanah Hagos, publications, vascular surgery, anticoagulation, research, journal articles">
 
-- Hall R, Morrow K, Patel S, Lee I, **Hagos F**, et al. The quantitative impact of warfarin versus factor Xa inhibitors on anticoagulation profiles in patients with peripheral artery disease post revascularization. *J Vasc Surg*. 2024.
+Below is a list of peer-reviewed journal articles authored or co-authored by **Fanah Hagos** in the field of **vascular surgery**, **anticoagulation**, and **peripheral artery disease**:
+
+- **Hall R, Morrow K, Patel S, Lee I, Hagos F**, et al. *The quantitative impact of warfarin versus factor Xa inhibitors on anticoagulation profiles in patients with peripheral artery disease post revascularization*. Journal of Vascular Surgery, 2024.
 
 - Lee I, Patel SS, Morrow K, **Hagos F**, Rakasiwi T, et al. Elevated HbA1c levels induced coagulopathy identified by viscoelastic testing. *Ann Vasc Surg*. 2024.
 
